@@ -1,0 +1,1 @@
+This project consist of a number of scripts with each each script containing a command to get around with the shell
